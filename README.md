@@ -150,8 +150,8 @@ Example command:
   gem install
 ```
 --->
-- Clone the repository using `git clone git@github.com:XsidX/blog_app.git`
-- Navigate to the folder using `cd blog_app`
+- Clone the repository using `git@github.com:XsidX/hello-rails-react.git`
+- Navigate to the folder using `cd hello-rails-react`
 - Use the following commands to
     - install necessary gems `bundle install`
     - run the development server `./bin/dev`
